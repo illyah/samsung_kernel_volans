@@ -1,0 +1,4 @@
+0x00000000	set_parameter_value	/home/user/v/modules/dcm/dcm	EXPORT_SYMBOL
+0x00000000	usb_platform_device	/home/user/v/modules/dcm/dcm	EXPORT_SYMBOL
+0x00000000	read_parameter_value	/home/user/v/modules/dcm/dcm	EXPORT_SYMBOL
+0x00000000	save_parameter_value	/home/user/v/modules/dcm/dcm	EXPORT_SYMBOL

@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd arch/arm/boot
+tar -cf i6410.tar zImage
+cd ../../../

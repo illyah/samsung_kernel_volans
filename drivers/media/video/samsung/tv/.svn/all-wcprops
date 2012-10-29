@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/tv
+END
+s3c-tvscaler.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/tv/s3c-tvscaler.h
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/tv/Kconfig
+END
+s3c-tvenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/tv/s3c-tvenc.c
+END
+s3c-tvscaler.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/tv/s3c-tvscaler.c
+END
+s3c-tvenc.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/tv/s3c-tvenc.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/tv/Makefile
+END

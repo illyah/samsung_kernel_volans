@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/fimc
+END
+s3c_fimc_core.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/fimc/s3c_fimc_core.c
+END
+s5k4ba.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/fimc/s5k4ba.h
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/fimc/Kconfig
+END
+s5k6aa.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/fimc/s5k6aa.h
+END
+s3c_fimc_cfg.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/fimc/s3c_fimc_cfg.c
+END
+s3c_csis.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/fimc/s3c_csis.c
+END
+s3c_csis.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/fimc/s3c_csis.h
+END
+s3c_fimc3x_regs.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/fimc/s3c_fimc3x_regs.c
+END
+s3c_fimc4x_regs.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/fimc/s3c_fimc4x_regs.c
+END
+Kconfig-camera
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/fimc/Kconfig-camera
+END
+s5k3ba.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/fimc/s5k3ba.c
+END
+s5k4ba.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/fimc/s5k4ba.c
+END
+s5k6aa.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/fimc/s5k6aa.c
+END
+s3c_fimc.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/fimc/s3c_fimc.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/fimc/Makefile
+END
+s5k3ba.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/fimc/s5k3ba.h
+END
+s3c_fimc_v4l2.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/fimc/s3c_fimc_v4l2.c
+END

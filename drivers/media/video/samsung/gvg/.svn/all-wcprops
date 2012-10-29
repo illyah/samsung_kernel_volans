@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/gvg
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/gvg/Kconfig
+END
+s3c_fimgvg.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/gvg/s3c_fimgvg.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/gvg/Makefile
+END

@@ -1,0 +1,9 @@
+#
+# Touchscreen nowplus driver configuration
+#
+
+config TOUCHSCREEN_VOLANS
+	tristate "ACME : MELFAS Touchscreen support"
+	depends on TOUCHSCREEN_VOLANS
+	help
+	  Say Y here for if you are using the touchscreen features of MCS-5000.

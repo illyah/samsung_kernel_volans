@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/mfc10
+END
+s3c_mfc_init_hw.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/mfc10/s3c_mfc_init_hw.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/mfc10/Kconfig
+END
+s3c_mfc_bitproc_buf.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/mfc10/s3c_mfc_bitproc_buf.h
+END
+s3c_mfc_instance.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/mfc10/s3c_mfc_instance.c
+END
+s3c_mfc_init_hw.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/mfc10/s3c_mfc_init_hw.h
+END
+s3c_mfc_databuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/mfc10/s3c_mfc_databuf.c
+END
+s3c_mfc_inst_pool.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/mfc10/s3c_mfc_inst_pool.c
+END
+s3c_mfc_yuv_buf_manager.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/mfc10/s3c_mfc_yuv_buf_manager.c
+END
+s3c_mfc_instance.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/mfc10/s3c_mfc_instance.h
+END
+s3c_mfc_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/mfc10/s3c_mfc_types.h
+END
+s3c_mfc_intr_noti.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/mfc10/s3c_mfc_intr_noti.h
+END
+s3c_mfc_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/mfc10/s3c_mfc_config.h
+END
+s3c_mfc_databuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/mfc10/s3c_mfc_databuf.h
+END
+s3c_mfc_inst_pool.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/mfc10/s3c_mfc_inst_pool.h
+END
+prism_s_v13d.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/mfc10/prism_s_v13d.c
+END
+s3c_mfc_yuv_buf_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/mfc10/s3c_mfc_yuv_buf_manager.h
+END
+s3c_mfc_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/mfc10/s3c_mfc_base.h
+END
+s3c_mfc_set_config.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/mfc10/s3c_mfc_set_config.c
+END
+s3c_mfc.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/mfc10/s3c_mfc.c
+END
+prism_s.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/mfc10/prism_s.h
+END
+s3c_mfc.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/mfc10/s3c_mfc.h
+END
+s3c_mfc_params.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/mfc10/s3c_mfc_params.h
+END
+s3c_mfc_sfr.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/mfc10/s3c_mfc_sfr.c
+END
+s3c_mfc_bitproc_buf.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/mfc10/s3c_mfc_bitproc_buf.c
+END
+s3c_mfc_sfr.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/mfc10/s3c_mfc_sfr.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/mfc10/Makefile
+END

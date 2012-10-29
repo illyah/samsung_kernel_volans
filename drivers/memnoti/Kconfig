@@ -1,0 +1,4 @@
+config XO_MEM_NOTIFY
+	tristate "XO Memory Notifier support"
+	default y
+	help

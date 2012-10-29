@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/Kconfig
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/Makefile
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/tv20
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/tv20/Kconfig
+END
+s5p_stda_tvout_if.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/tv20/s5p_stda_tvout_if.c
+END
+s5p_stda_hdmi.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/tv20/s5p_stda_hdmi.c
+END
+s5p_stda_video_layer.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/tv20/s5p_stda_video_layer.c
+END
+s5p_tv.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/tv20/s5p_tv.h
+END
+s5p_tv_v4l2.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/tv20/s5p_tv_v4l2.c
+END
+s5p_tv_base.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/tv20/s5p_tv_base.c
+END
+s5p_stda_grp.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/tv20/s5p_stda_grp.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/tv20/Makefile
+END

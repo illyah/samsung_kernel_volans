@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/jpeg
+END
+jpg_mem.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/jpeg/jpg_mem.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/jpeg/Kconfig
+END
+jpg_misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/jpeg/jpg_misc.h
+END
+jpg_opr.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/jpeg/jpg_opr.c
+END
+s3c-jpeg.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/jpeg/s3c-jpeg.h
+END
+jpg_mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/jpeg/jpg_mem.h
+END
+jpg_opr.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/jpeg/jpg_opr.h
+END
+log_msg.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/jpeg/log_msg.c
+END
+jpg_conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/jpeg/jpg_conf.h
+END
+s3c-jpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/jpeg/s3c-jpeg.c
+END
+jpg_misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/jpeg/jpg_misc.c
+END
+log_msg.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/jpeg/log_msg.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/jpeg/Makefile
+END

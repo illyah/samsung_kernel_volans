@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/rp
+END
+s3c_rp.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/rp/s3c_rp.h
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/rp/Kconfig
+END
+s3c_rp_v4l2.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/rp/s3c_rp_v4l2.c
+END
+s3c_rp_core.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/rp/s3c_rp_core.c
+END
+s3c_rp_tv_regs.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/rp/s3c_rp_tv_regs.c
+END
+s3c_rp_cfg.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/rp/s3c_rp_cfg.c
+END
+s3c_rp_pp_regs.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/rp/s3c_rp_pp_regs.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/rp/Makefile
+END
+s3c_rp_rot_regs.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/rp/s3c_rp_rot_regs.c
+END

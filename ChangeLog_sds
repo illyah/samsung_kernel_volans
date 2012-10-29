@@ -1,0 +1,48 @@
+master at beginning : v2.6.28.6-samsung-r5d5
+-----------------------------------------------------------------------
+v2.6.28.6-samsung-sds : SangPil Moon  (May. 8. 2009)
+	- Master copy for sds branch.!!
+
+v2.6.28.6-samsung-sds-r0d0 : SangPil Moon  (May. 11. 2009)
+	- tvout kernel resource added...
+
+v2.6.28.6-samsung-sds-r0d1 : SangPil Moon  (May. 11. 2009)	
+	- tvout for s5pc100 driver added into kernel tree
+	
+	Modified Files:
+		M	drivers/media/video/samsung/Kconfig
+		M	drivers/media/video/samsung/Makefile
+
+	Added Files:
+		A	drivers/media/video/samsung/tv20/Kconfig
+		A	drivers/media/video/samsung/tv20/Makefile
+		A	drivers/media/video/samsung/tv20/s5p_stda_grp.c
+		A	drivers/media/video/samsung/tv20/s5p_stda_hdmi.c
+		A	drivers/media/video/samsung/tv20/s5p_stda_tvout_if.c
+		A	drivers/media/video/samsung/tv20/s5p_stda_video_layer.c
+		A	drivers/media/video/samsung/tv20/s5p_tv.h
+		A	drivers/media/video/samsung/tv20/s5p_tv_base.c
+		A	drivers/media/video/samsung/tv20/s5p_tv_v4l2.c
+		A	drivers/media/video/samsung/tv20/s5pc100/hdcp_s5pc100.c
+		A	drivers/media/video/samsung/tv20/s5pc100/hdmi_s5pc100.c
+		A	drivers/media/video/samsung/tv20/s5pc100/regs/regs-clock_extra.h
+		A	drivers/media/video/samsung/tv20/s5pc100/regs/regs-hdmi.h
+		A	drivers/media/video/samsung/tv20/s5pc100/regs/regs-sdaout.h
+		A	drivers/media/video/samsung/tv20/s5pc100/regs/regs-vmx.h
+		A	drivers/media/video/samsung/tv20/s5pc100/regs/regs-vprocessor.h
+		A	drivers/media/video/samsung/tv20/s5pc100/sdout_s5pc100.c
+		A	drivers/media/video/samsung/tv20/s5pc100/tv_clock_s5pc100.c
+		A	drivers/media/video/samsung/tv20/s5pc100/tv_out_s5pc100.h
+		A	drivers/media/video/samsung/tv20/s5pc100/tv_power_s5pc100.c
+		A	drivers/media/video/samsung/tv20/s5pc100/vp_coeff_s5pc100.h
+		A	drivers/media/video/samsung/tv20/s5pc100/vprocessor_s5pc100.c
+
+v2.6.28.6-samsung-sds-r1d1 : Sunil Choi (May. 25. 2009)	
+	- S3C6410 Post processor source is refined
+		: Clock source - hclk
+	
+	Modified Files:
+		A	drivers/media/video/samsung/post/s3c_pp_6400.c
+		A	drivers/media/video/samsung/post/s3c_pp_common.c
+		A	drivers/media/video/samsung/post/s3c_pp.h
+		A	drivers/media/video/samsung/post/s3c_pp_common.h

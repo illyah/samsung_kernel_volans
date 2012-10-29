@@ -1,0 +1,4 @@
+
+#define I2C_HAL_CLK_STRETCH_LIMIT	5000000		
+#define I2CAddr7Bit 0x20
+#define ATTN_TIMEOUT 5000

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/cmm
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/cmm/Kconfig
+END
+s3c_cmm.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/cmm/s3c_cmm.c
+END
+s3c_cmm.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/cmm/s3c_cmm.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/linux-2.6.28-samsung/drivers/media/video/samsung/cmm/Makefile
+END
